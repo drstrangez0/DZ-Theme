@@ -238,6 +238,9 @@
     [data-rem-tags~=highlight][data-rem-tags~=header] .rem-text {
         color:white!important;
     }
+    [data-rem-tags~=highlight] .rem-text {
+        color:white!important;
+    }
 
 
     .cloze {
@@ -267,4 +270,10 @@
 
 color: var(--text-color)!important;
 background-color:var(--main-color)
+}
+/*************/
+/* fix highlight wrong color */
+/*************/
+[data-rem-tags~=highlight] .rem-text {
+    color:white!important;
 }
