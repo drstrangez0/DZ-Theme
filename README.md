@@ -5,7 +5,6 @@
 
 # Images 
 
-
-  ![image](https://github.com/drstrangez0/DZ-Theme/blob/main/SS.png)
   ![](https://i.imgur.com/iqpeDzA.png)
+  ![](https://i.imgur.com/qnhIfHe.png)
 
